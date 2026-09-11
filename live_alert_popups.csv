@@ -1,0 +1,12 @@
+player_id,player_name,team,category,severity,value,message,persistence,checkpoint,popup_reason
+5691,Johan Andrés Mojica Palacio,Elche,Involvement,Moderate,-0.44490586932447407,Johan Andrés Mojica Palacio's passing involvement is 44% below the historical baseline.,2,15,New persistent alert
+6663,Antonio Barragán Fernández,Elche,Involvement,Moderate,-0.6496583714661819,Antonio Barragán Fernández's passing involvement is 65% below the historical baseline.,2,15,New persistent alert
+6663,Antonio Barragán Fernández,Elche,Progression,Moderate,-1.0,Antonio Barragán Fernández's progressive passing rate is 100% below the historical baseline.,2,15,New persistent alert
+30486,Pedro González López,Barcelona,Progression,Moderate,-1.0,Pedro González López's progressive passing rate is 100% below the historical baseline.,2,15,New persistent alert
+18783,Omenuke Mfulu,Elche,Progression,Moderate,-1.0,Omenuke Mfulu's progressive passing rate is 100% below the historical baseline.,2,15,New persistent alert
+4447,Martin Braithwaite Christensen,Barcelona,Passing Execution,High,-2.1398210525512695,Martin Braithwaite Christensen is 2.14 completed passes below contextual expectation.,2,20,New persistent alert
+9857,José Manuel Sánchez Guillén,Elche,Passing Execution,Moderate,-1.687835693359375,José Manuel Sánchez Guillén is 1.69 completed passes below contextual expectation.,2,25,New persistent alert
+15880,Emiliano Ariel Rigoni,Elche,Passing Execution,Moderate,-1.8896722793579102,Emiliano Ariel Rigoni is 1.89 completed passes below contextual expectation.,2,25,New persistent alert
+9857,José Manuel Sánchez Guillén,Elche,Passing Execution,High,-2.018702507019043,José Manuel Sánchez Guillén is 2.02 completed passes below contextual expectation.,3,30,Severity increased
+18783,Omenuke Mfulu,Elche,Passing Execution,High,-2.145371437072754,Omenuke Mfulu is 2.15 completed passes below contextual expectation.,2,30,New persistent alert
+7064,Lucas Ariel Boyé,Elche,Passing Execution,Moderate,-1.4569673538208008,Lucas Ariel Boyé is 1.46 completed passes below contextual expectation.,2,35,New persistent alert

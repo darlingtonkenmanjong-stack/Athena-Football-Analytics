@@ -1,0 +1,6 @@
+target,configuration,algorithm,test_rows,MAE,RMSE,R2
+second_half_actions_per90,G_History_FirstHalf_xPass_Trajectory,Random Forest,1928,33.872849274871676,44.94137108847881,0.4986246461712628
+second_half_miscontrols_per90,E_History_FirstHalf,Linear Regression,1928,1.0843225132756553,1.5567105535059038,0.15646530696066563
+second_half_pass_completion_rate,F_History_FirstHalf_xPass,Linear Regression,1928,0.09957393581807647,0.13343132278977124,0.24990581036188475
+second_half_progressive_passes_per90,E_History_FirstHalf,Linear Regression,1928,3.6873857934799905,4.852344327891401,0.3177119500200666
+second_half_statsbomb_xg_per90,E_History_FirstHalf,Linear Regression,1928,0.14302582572800618,0.3004632109894967,0.12394406768792188

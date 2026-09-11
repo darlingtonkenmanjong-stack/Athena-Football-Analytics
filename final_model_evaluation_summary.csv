@@ -1,0 +1,10 @@
+Component,Model,Evaluation_Metric,Score,Role_in_System
+xPass Event Only,XGBoost,ROC-AUC,0.8886,xPass baseline
+xPass Event + 360,XGBoost,ROC-AUC,0.9122,Contextual pass assessment
+Custom xG Event + 360,XGBoost,ROC-AUC,0.748721,Supporting shot experiment
+StatsBomb xG,StatsBomb Benchmark,ROC-AUC,0.783904,Operational shot-quality benchmark
+Second-Half Actions,Random Forest,R²,0.498625,Future involvement forecast
+Second-Half Progressive Passes,Linear Regression,R²,0.317712,Future progression forecast
+Second-Half Pass Completion,Linear Regression,R²,0.249906,Future passing-efficiency forecast
+Second-Half Miscontrols,Linear Regression,R²,0.156465,Future ball-security forecast
+Second-Half StatsBomb xG,Linear Regression,R²,0.123944,Future attacking-threat forecast
